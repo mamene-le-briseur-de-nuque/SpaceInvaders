@@ -11,7 +11,6 @@ public class SpaceInvaders {
     int hauteur;
 	Vaisseau vaisseau;
 	
-
     public SpaceInvaders(int longueur, int hauteur) {
 	   this.longueur = longueur;
 	   this.hauteur = hauteur;
