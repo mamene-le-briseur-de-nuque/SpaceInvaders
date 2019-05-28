@@ -72,5 +72,4 @@ public class SpaceInvaders {
 		vaisseau = new Vaisseau(longueur,hauteur,x,y);
 	}
 	
-	
 }
